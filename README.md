@@ -22,11 +22,22 @@ This repository is an archive of colorations of graphs for the Julia program htt
 </tr>
 
 <tr>
-
 <td>6</td>
-
 <td>8</td>
+</tr>
 
-
+<tr>
+<td>7</td>
+<td>7</td>
+</tr>
+  
+<tr>
+<td>8-10</td>
+<td>6</td>
+</tr>
+  
+<tr>
+<td>11-15</td>
+<td>5</td>
 </tr>
 </table>
