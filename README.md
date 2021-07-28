@@ -1,5 +1,5 @@
 # Colorations
-This repository is an archive of colorations of graphs for the Julia program https://github.com/mgemath/AtiyahBott.jl. In the following table we list all Dimension with the maximal degree covered by the archive.
+This repository is an archive of colorations of graphs for the Julia program https://github.com/mgemath/AtiyahBott.jl. In the following table we list all dimensions with the maximal degree covered by the archive.
 
 <table>
 
