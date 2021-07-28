@@ -37,7 +37,12 @@ This repository is an archive of colorations of graphs for the Julia program htt
 </tr>
   
 <tr>
-<td>11-15</td>
+<td>11-17</td>
 <td>5</td>
+</tr>
+  
+  <tr>
+<td>18-29</td>
+<td>3</td>
 </tr>
 </table>
